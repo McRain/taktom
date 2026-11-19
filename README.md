@@ -2,18 +2,18 @@
 
 ## Лицензия
 
-Исходный код открыт и распространяется по лицензии [PolyForm Noncommercial 1.0.0](LICENSE.md).
+Исходный код открыт и распространяется по лицензии [Elastic License 2.0](LICENSE.md).
 
-**Бесплатно** — личное использование, обучение, исследования, эксперименты, хобби-проекты, а также некоммерческие, образовательные, научные и государственные организации.
+**Бесплатно** — любое использование, в том числе в коммерческих компаниях и у ИП: установить трекер у себя, вести в нём свою работу, дорабатывать код и распространять его (сохраняя текст лицензии и уведомления об авторских правах).
 
-**Коммерческое использование** — в работе компании или ИП, в коммерческих продуктах и услугах, в том числе как облачного сервиса (SaaS), — только по коммерческой лицензии. Чтобы её получить, напишите на dev@reneos.com.
+**Нужна коммерческая лицензия** — чтобы предоставлять трекер третьим лицам как облачный или управляемый сервис (SaaS, хостинг). Чтобы её получить, напишите на dev@reneos.com.
 
 ## License
 
-The source code is available under the [PolyForm Noncommercial License 1.0.0](LICENSE.md).
+The source code is available under the [Elastic License 2.0](LICENSE.md).
 
-**Free** for personal use, study, research, experiments, hobby projects, and for noncommercial, educational, research and government organizations.
+**Free** for any use, including within commercial companies: run it on your own servers, use it for your own work, modify and redistribute it (keeping the license and copyright notices).
 
-**Commercial use** — within a business, in commercial products or services, including offering it as a hosted service (SaaS) — requires a commercial license. Contact dev@reneos.com.
+**A commercial license is required** to provide the software to third parties as a hosted or managed service (SaaS, hosting). Contact dev@reneos.com.
 
 Copyright (c) 2026 Viktor Abdulov (Виктор Абдулов)
